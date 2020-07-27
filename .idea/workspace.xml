@@ -2,45 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40e98509-8625-499d-9951-6b7de74344aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@types/color-name/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@types/color-name/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/inquirer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/choice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/choices.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/separator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/checkbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/confirm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/editor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/expand.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/number.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/password.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/rawlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/baseUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/bottom-bar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/prompt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/incrementListIndex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/paginator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/readline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/screen-manager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__mocks__/fs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__test__/db.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/node-todo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/node-todo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/cli.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,6 +50,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.jscs" value="" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
@@ -85,6 +66,70 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Jest.db">
+    <configuration name="adds 1 + 2 to equal 3" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/sum.test.js" />
+      <test-names>
+        <test-name value="adds 1 + 2 to equal 3" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="db" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__test__/db.spec.js" />
+      <test-names>
+        <test-name value="db" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="db.can read" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/db.spec.js" />
+      <test-names>
+        <test-name value="db" />
+        <test-name value="can read" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="db.can write" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/db.spec.js" />
+      <test-names>
+        <test-name value="db" />
+        <test-name value="can write" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.db" />
+        <item itemvalue="Jest.db.can read" />
+        <item itemvalue="Jest.db.can write" />
+        <item itemvalue="Jest.adds 1 + 2 to equal 3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -95,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595807011681</updated>
-      <workItem from="1595807015771" duration="17821000" />
+      <workItem from="1595807015771" duration="22424000" />
     </task>
     <servers />
   </component>
