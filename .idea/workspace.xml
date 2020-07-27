@@ -1,12 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40e98509-8625-499d-9951-6b7de74344aa" name="Default Changelist" comment="" />
+    <list default="true" id="40e98509-8625-499d-9951-6b7de74344aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/color-name/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/color-name/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/inquirer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/choice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/choices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/objects/separator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/confirm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/expand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/prompts/rawlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/baseUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/bottom-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/ui/prompt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/incrementListIndex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/paginator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/readline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/screen-manager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inquirer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
@@ -20,7 +57,12 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1fFHe38tqLBR5XuTGmleZ7FVIXk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.jscs" value="project" />
@@ -53,11 +95,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595807011681</updated>
-      <workItem from="1595807015771" duration="10268000" />
+      <workItem from="1595807015771" duration="17821000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

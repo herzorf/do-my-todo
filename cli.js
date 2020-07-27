@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const {program} = require("commander");
 const API = require("./index");
 //声明命令
@@ -24,3 +25,4 @@ if (process.argv.length === 2) {
 } else {
     program.parse(process.argv);
 }
+
